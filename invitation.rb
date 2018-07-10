@@ -9,10 +9,13 @@ puts "What is the date of your party?"
 z = gets.strip
 puts "What time will the party occur?"
 w = gets.strip
+puts "When is th deadline to RSVP"
+u = gets.strip
 puts "What is the host's name?"
 v = gets.strip
 
 puts "Dear #{x},"
-
 puts ""
-puts "You are cordially invited to the #{y} on #{z} at #{w}. Please RSVP no"
+puts "You are cordially invited to the #{y} on #{z} at #{w}. Please RSVP no later than #{u}."
+puts ""
+puts "Sincerely"
