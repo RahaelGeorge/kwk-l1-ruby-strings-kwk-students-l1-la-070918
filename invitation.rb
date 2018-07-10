@@ -12,5 +12,7 @@ w = gets.strip
 puts "What is the host's name?"
 v = gets.strip
 
-puts "Dear #{x}, 
-You are cordially invited to the #{y} on #{z} at #{w}. Please RSVP no"
+puts "Dear #{x},"
+
+puts ""
+puts "You are cordially invited to the #{y} on #{z} at #{w}. Please RSVP no"
