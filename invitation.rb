@@ -1,5 +1,4 @@
 # Code your prompts here!
 
 # Try starting out with puts'ing a string.
-x = guest_name
-puts "Dear "
+puts "What is your guest name?"
